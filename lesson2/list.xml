@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<students>
+    <student>
+        <lastName>Sergeev</lastName>
+        <firstName>Oleg</firstName>
+        <birthDate>2010-04-22</birthDate>
+    </student>
+    <student>
+        <lastName>Markina</lastName>
+        <firstName>Olga</firstName>
+        <birthDate>2010-04-22</birthDate>
+    </student>
+</students>
